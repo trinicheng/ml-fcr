@@ -7,3 +7,6 @@ Edit first cell based on fMRI contrast desired
 - Low_nonfood_fasted_77_subjects.csv = Low-ED vs. non-food contrast, fasted
 - High_nonfood_fed_79_subjects.csv = High-ED vs. non-food contrast, fed
 - Low_nonfood_fed_79_subjects.csv = Low-ED vs. non-food contrast, fasted
+
+[10.5281/zenodo.22775482](https://doi.org/10.5281/zenodo.22775481
+)
